@@ -1,6 +1,6 @@
 # Cafe Utarite Database Management System (MySQL/MariaDB)
 **POS • Payments • Inventory • Purchasing • HR • Audit Logging**  
-Source dump: `cafe_utarite.sql` (phpMyAdmin SQL Dump v5.2.1)
+Source dump: dump/cafe_utarite.sql (phpMyAdmin SQL Dump v5.2.1)
 
 ## Overview
 Repository ini berisi **SQL dump** database Cafe Utarite untuk sistem operasional cafe, mencakup:
